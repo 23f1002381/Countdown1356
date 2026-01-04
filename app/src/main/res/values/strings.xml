@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1356 – The Countdown</string>
+    <string name="notification_channel_name">Countdown Timer</string>
+    <string name="notification_channel_description">Shows the remaining time for the 1356-day countdown</string>
+    <string name="notification_title">1356-Day Countdown</string>
+    <string name="notification_text">Countdown in progress</string>
+    <string name="days_label">days</string>
+    <string name="time_format">%1$02d:%2$02d:%3$02d</string>
+</resources>
+
